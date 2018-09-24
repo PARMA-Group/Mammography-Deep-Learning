@@ -5,7 +5,7 @@ This is a list of papers related to deep learning applied on mamography.
 ## Overview
 
 - [Analysis](#analisys)
-- [Classification](#classificaction)
+- [Classification](#classification)
 - [Segmentation](#segmentation)
 - [Synthesis](#synthesis)
 - [Screening](#screening)
